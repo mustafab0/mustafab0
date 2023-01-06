@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mustafab0
-- 👀 I’m a robotics graduate student at NYU, with a background in Mechhanical Engineering.
-- 🌱 I’ve been working with 3D printers for the last 3 years and I am an expert when it comes to 3D printing.
-- 💞️ I’m now looking to enhance my skills in the computer programming and I am just a beginner.
+- 👀 I’m a robotics graduate student at NYU, with a background in Mechhanical Engineering and operations.
+- 🌱 I’ve been working with 3D printers for the last 5 years and I am an expert when it comes to 3D printing.
+- 💞️ I’m now enhancing my skills in the computer programming and I have gotten pretty good.
 - 📫 Just send a message here and I will respond.
 
 <!---
